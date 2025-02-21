@@ -6,8 +6,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aesthetic.nishchay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishchaymakkar) [![Google Developer](https://img.shields.io/badge/Google%20For%20Developer-00077B5.svg?logo=googleDeveloper&logoColor=black)](https://g.dev/nishchaymakkar)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nishchaymakkar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nishchaymakkar&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nishchaymakkar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
